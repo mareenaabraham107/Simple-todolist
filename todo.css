@@ -1,0 +1,25 @@
+.disabledList{
+    
+    pointer-events:none; 
+    opacity:0.6;        
+
+}
+
+html,body{
+    background-image: url('images/minimalism-post-it-notes-yellow-green-wallpaper.jpg');
+    background-size: cover;
+    background-repeat: repeat;
+    height: 100%;
+   
+    }
+    
+#todoList{
+    border: 10px solid #030303;
+    border-radius: 1rem;
+}
+#todoList :hover{
+    background: #e2e06c;.
+}
+#mainnavbar{
+    background-color: #000000;.
+}
